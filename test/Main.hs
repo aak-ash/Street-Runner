@@ -50,7 +50,6 @@ tests= TestList[ TestLabel "test1" test1
 
 main::IO Counts
 main = do 
-	print("Passed All Test Cases")
 	runTestTT tests
 
 
