@@ -1,5 +1,5 @@
 # Street-Runner
-Run through the streets avoiding obstacles such as rock, lava, bird etc to gain points as well as extra lives. 
+Run through the streets avoiding obstacles to gain points as well as extra lives. 
 
 README</br>
 </br>
