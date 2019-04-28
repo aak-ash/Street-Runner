@@ -1,5 +1,9 @@
+[![CircleCI](https://circleci.com/gh/aak-ash/Street-Runner.svg?style=svg)](https://circleci.com/gh/aak-ash/Street-Runner)
+
+
 # Street-Runner
 Run through the streets avoiding obstacles to gain points as well as extra lives. 
+
 
 README</br>
 </br>
